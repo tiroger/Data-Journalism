@@ -29,3 +29,33 @@ body {
   margin: 0;
   font-size: 16px;
 }
+
+/* .tooltip { */
+  /* line-height: 1.5;
+  font-weight: bold;
+  padding: 0px 8px;
+/*   background: rgba(125, 125, 25, 0.8); */
+  /* color: #444;
+  border-radius: 10px;
+  border: 1px solid #444; */ */
+}
+
+/* Creates a small triangle extender for the tooltip */
+/* .tooltip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 5px;
+  width: 100%;
+  line-height: 1;
+  color: blue;
+  content: "\25BC";
+  position: absolute;
+  text-align: center; */
+}
+
+/* Style northward tooltips differently */
+/* .tooltip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0; */
+}
